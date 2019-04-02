@@ -81,7 +81,7 @@ dict 结构 {}
 可以定义很多种形式，嵌套，等=等=等= 等方式
 .update 更新操作 
 in 判断语法
-keys (键的意思）   jin={'li':123,'fei':345}
+.keys (键的意思）   jin={'li':123,'fei':345}
                   jin.keys()
                     {回车}
                   dict_keys=(['li,'fei'])
@@ -91,7 +91,7 @@ keys (键的意思）   jin={'li':123,'fei':345}
                      {回车}
                    dict_values=([123，345])
                   
-items  (所有的内容）  举例：jin={'li':123,'fei':345}
+.items  (所有的内容）  举例：jin={'li':123,'fei':345}
                           jin.itmes()
                            {回车}
                           dict_items=([('li',123)，('fei',345])
